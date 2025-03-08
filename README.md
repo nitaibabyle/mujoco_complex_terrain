@@ -4,25 +4,25 @@ I have constructed these types of the floor, including slopes, waves, lawn, and 
 slope:
 
 
-<img src="https://github.com/user-attachments/assets/da53c67a-1eef-418c-99bf-edd4b65bf0dc" width="400px"/>
+<img src="https://github.com/user-attachments/assets/c90c1a00-dc60-4005-abd2-dc6a17f36ccd" width="400px"/>
 
 
 wave:
 
 
-<img src="https://github.com/user-attachments/assets/c90c1a00-dc60-4005-abd2-dc6a17f36ccd" width="400px"/>
+<img src="https://github.com/user-attachments/assets/4246984b-e13c-4fa5-b2fc-1c6ab69d9a53" width="400px"/>
 
 
 cobblestone:
 
 
-<img src="https://github.com/user-attachments/assets/4246984b-e13c-4fa5-b2fc-1c6ab69d9a53" width="400px"/>
+<img src="https://github.com/user-attachments/assets/b5d53888-c7e9-4977-bce6-0efea15117dc" width="400px"/>
 
 
 lawn:
 
 
-<img src="https://github.com/user-attachments/assets/b5d53888-c7e9-4977-bce6-0efea15117dc" width="400px"/>
+<img src="https://github.com/user-attachments/assets/da53c67a-1eef-418c-99bf-edd4b65bf0dc" width="400px"/>
 
 
 mix one:
