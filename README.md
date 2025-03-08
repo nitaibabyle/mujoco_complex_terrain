@@ -1,4 +1,5 @@
 I have constructed these types of the floor, including slopes, waves, lawn, and cobblestones.
+And i have tuned the parameter of the contact friction and stiffnesss, this enviornment can be used in robotic simulation.
 
 
 slope:
