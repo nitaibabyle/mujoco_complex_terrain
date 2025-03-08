@@ -4,7 +4,7 @@
 slope:
 
 
-![image](https://github.com/user-attachments/assets/da53c67a-1eef-418c-99bf-edd4b65bf0dc){width=200px}
+![image](https://github.com/user-attachments/assets/da53c67a-1eef-418c-99bf-edd4b65bf0dc){width=200px,height=100px}
 
 
 wave:
