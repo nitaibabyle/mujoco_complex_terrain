@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/3cfcabe2-cdb7-4de4-b52e-c7eb41c79f18)I have constructed these types of the floor, including slopes, waves, lawn, and cobblestones.
+I have constructed these types of the floor, including slopes, waves, lawn, and cobblestones.
 
 
 slope:
